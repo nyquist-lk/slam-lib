@@ -1,0 +1,10 @@
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/edit_cache.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/curve_fitting.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/bundle_adjuster.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/curve_fitting_outlier.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/powell2.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/helloceres.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/helloceres_numeric_diff.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/helloceres_analytic_diff.dir
+/home/niki/share/code/ceres_tutorial/build/CMakeFiles/powell.dir
